@@ -1,0 +1,19 @@
+{
+  "especialidades": [
+    {
+      "id": 1,
+      "nombre": "Cardiología",
+      "descripcion": "Especialidad en enfermedades del corazón"
+    },
+    {
+      "id": 2,
+      "nombre": "Pediatría",
+      "descripcion": "Especialidad en atención infantil"
+    },
+    {
+      "id": 3,
+      "nombre": "Dermatología",
+      "descripcion": "Especialidad en enfermedades de la piel"
+    }
+  ]
+}
